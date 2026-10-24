@@ -218,7 +218,7 @@ I'm interested in connecting with developers, AI enthusiasts, cybersecurity lear
   <a href="https://www.linkedin.com/in/shrey-gadhiya-992005270/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://shreypatel95.netlify.app/">
+  <a href="https://shrey-gadhia-portfolio.wasmer.app/">
     <img src="https://img.shields.io/badge/Portfolio-6C47FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:shreypatel8032@gmail.com">
