@@ -1,20 +1,14 @@
 
-<!-- =============================================== -->
-<!-- SHREY GADHIYA - GITHUB PROFILE README           -->
-<!-- =============================================== -->
-
 <h1 align="center">👋 Hi, I'm Shrey Gadhiya</h1>
 
-<h3 align="center">
-  ☁️ Aspiring Cloud Security Engineer | DevOps Enthusiast
-</h3>
+<h3 align="center">☁️ Aspiring Cloud Security Engineer | DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+Security+Engineer;DevOps+%26+Infrastructure+Enthusiast;Cybersecurity+%26+Linux+Learner;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+Security+Engineer;DevOps+%26+Infrastructure+Enthusiast;Cybersecurity+%26+Linux+Learner;Building+Secure+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shrey-Gadhiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shrey-Gadhiya&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -23,44 +17,38 @@
 
 I'm a Computer Science and Engineering student specializing in **IoT & Cyber Security**, passionate about Cloud Security, DevOps, infrastructure management, and building secure technology solutions.
 
-I'm currently developing my technical skills in **AWS, Cloud Security, Linux Administration, Docker, Networking, CI/CD, and Infrastructure Automation**.
+Currently, I'm developing practical skills in **AWS, Linux Administration, Docker, Networking, CI/CD, Cloud Security, and Infrastructure Automation**.
 
-I enjoy learning new technologies, experimenting with practical tools, solving technical challenges, and building projects that improve my real-world technical knowledge.
+I enjoy building projects, exploring new technologies, solving technical problems, and continuously improving my engineering skills.
 
-Alongside my technical journey, I'm also building **Orbitra Solution**, an entrepreneurial initiative focused on digital solutions, website development, branding, and business technology.
+I'm also building **Orbitra Solution**, an entrepreneurial initiative focused on digital solutions, website development, branding, and business technology.
 
 ### 🔭 Currently Exploring
-
 - ☁️ AWS Cloud Computing and Infrastructure
 - 🔐 Cloud Security and Identity Access Management
-- ⚙️ DevOps Practices and CI/CD Pipelines
+- ⚙️ DevOps and CI/CD Pipelines
 - 🐳 Docker and Containerization
 - 🐧 Linux Administration and Shell Scripting
-- 🌐 Computer Networking and Cloud Networking
-- 🛡️ Infrastructure Security and Monitoring
+- 🌐 Networking and Infrastructure Security
+- 🛡️ Security Monitoring and Vulnerability Assessment
 
 ### 💡 Areas of Interest
-
 - Cloud Security Engineering
 - DevOps Engineering
 - DevSecOps
-- AWS Cloud Infrastructure
+- AWS Infrastructure
 - Infrastructure as Code (IaC)
 - CI/CD Automation
 - Linux System Administration
 - Network Security
-- Vulnerability Assessment
 
 ### 🤝 Open To
-
 - Cloud Security Internships
 - DevOps Internships
 - Cloud Engineering Internships
 - Cybersecurity Internships
-- Infrastructure Security Opportunities
-- Technical Collaborations
+- Hackathons and Technical Collaborations
 - Open Source Contributions
-- Hackathons
 
 📍 **Location:** Surat, Gujarat, India
 
@@ -68,15 +56,15 @@ Alongside my technical journey, I'm also building **Orbitra Solution**, an entre
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing B.E. in Computer Engineering (IoT & Cyber Security) at Shree Dhanvantary College of Engineering & Technology.
-- 📚 Completed Diploma in Computer Engineering with **8.17 CGPA** from Gujarat Technological University.
+- 🎓 Pursuing B.E. in Computer Engineering (IoT & Cyber Security).
+- 📚 Completed Diploma in Computer Engineering with **8.17 CGPA** from GTU.
 - 💼 Completed Front-End Development Internship at Tatva Tech (June–August 2024).
-- ☁️ Currently focusing on Cloud Security and DevOps engineering.
-- 🔐 Interested in securing cloud infrastructure, applications, systems, and networks.
+- ☁️ Currently focusing on Cloud Security and DevOps.
+- 🔐 Interested in securing cloud infrastructure, applications, and networks.
 - 🐍 Experienced in Python programming and technical project development.
-- 🌐 Familiar with web development, APIs, and database systems.
-- 🏢 Building Orbitra Solution, exploring digital products and business solutions.
-- 🌱 Continuously learning through hands-on projects and practical experiments.
+- 🌐 Familiar with web development, APIs, and databases.
+- 🏢 Building Orbitra Solution.
+- 🌱 Continuously learning through practical projects and technical challenges.
 
 ---
 
@@ -87,11 +75,11 @@ Alongside my technical journey, I'm also building **Orbitra Solution**, an entre
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-- AWS Fundamentals (Currently Learning)
+- AWS Fundamentals (Learning)
 - Identity and Access Management (IAM)
 - Cloud Security Fundamentals
 - Cloud Infrastructure Concepts
-- Cloud Networking Fundamentals
+- Cloud Networking
 - Access Control and Security Best Practices
 
 ### ⚙️ DevOps & Infrastructure
@@ -101,11 +89,11 @@ Alongside my technical journey, I'm also building **Orbitra Solution**, an entre
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- Docker and Containerization Fundamentals
-- Git and GitHub Version Control
-- CI/CD Pipeline Fundamentals
+- Docker and Containerization
+- Git and GitHub
+- CI/CD Fundamentals
 - Linux Command Line
-- Linux System Administration Fundamentals
+- Linux Administration Fundamentals
 - Shell Scripting Fundamentals
 - Deployment and Automation Concepts
 
@@ -116,7 +104,7 @@ Alongside my technical journey, I'm also building **Orbitra Solution**, an entre
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
 
-- Computer Networking (TCP/IP, DNS, HTTP/HTTPS)
+- TCP/IP, DNS, HTTP/HTTPS
 - Network Traffic Analysis
 - Vulnerability Assessment
 - Nmap
@@ -139,8 +127,7 @@ Alongside my technical journey, I'm also building **Orbitra Solution**, an entre
 - Java
 - C and C++
 - SQL
-- HTML5
-- CSS3
+- HTML5 and CSS3
 - Bootstrap
 - JavaScript
 - PHP
@@ -162,8 +149,6 @@ Alongside my technical journey, I'm also building **Orbitra Solution**, an entre
 - Visual Studio
 - Linux Terminal
 
-*My technical skills are continuously evolving through practical learning and hands-on development.*
-
 ---
 
 ## 🚀 Featured Projects
@@ -172,36 +157,30 @@ Alongside my technical journey, I'm also building **Orbitra Solution**, an entre
 
 A Python-based desktop application designed to analyze network logs and identify potentially suspicious IP addresses.
 
-**Key Features:**
+**Features:**
 - Log file analysis
 - Suspicious IP identification
-- Color-coded analysis results
-- Graphical user interface using Tkinter
+- Color-coded results
+- Tkinter graphical interface
 - PDF report generation
 
-**Technologies:** Python, Tkinter, Network Log Analysis.
+**Technologies:** Python, Tkinter, Networking, Log Analysis.
 
 ### 🌐 2. Network Traffic Monitoring
 
-A networking project focused on monitoring and understanding network traffic, analyzing communication patterns, and exploring network behavior.
+A practical project focused on monitoring network traffic and understanding network communication.
 
-**Key Areas:**
+**Features:**
 - Network traffic monitoring
 - Packet analysis
 - Network troubleshooting
 - Traffic inspection
 
-**Technologies:** Python, Wireshark, Computer Networking.
+**Technologies:** Python, Wireshark, Networking.
 
 ### 🔐 3. Password Strength Checker
 
-A security-focused utility that evaluates password strength and demonstrates fundamental password security principles.
-
-**Key Features:**
-- Password strength evaluation
-- Password validation
-- Security recommendations
-- Basic password security checks
+A security utility that evaluates password strength and demonstrates fundamental password security principles.
 
 **Technologies:** Python, Password Validation, Security Fundamentals.
 
@@ -213,7 +192,7 @@ A cybersecurity-focused project exploring security analysis and AI-assisted thre
 
 ### 🌐 5. CAR SPY – Automotive Information Website
 
-A web development project designed to present Dodge vehicle information through a structured and responsive website.
+A web development project designed to present Dodge vehicle information through a structured website.
 
 **Technologies:** HTML5, CSS3, Bootstrap.
 
@@ -227,14 +206,34 @@ My entrepreneurial initiative focused on building digital solutions for business
 - Branding and Digital Presence
 - Business Workflow Improvement
 
-**Focus:** Digital Solutions, Web Development, Branding.
+---
+
+## 🏆 Hackathons & Competitions
+
+### 🎯 Smart India Hackathon (SIH) 2025
+- Participated in GTU Internal Smart India Hackathon 2025.
+- Team: **ARCLIGHT**
+- Role: **Team Leader**
+- Selected for the next internal round.
+
+### 🚀 Smart India Hackathon (SIH) 2026
+- Participated in the SIH 2026 innovation challenge.
+- Worked on solution development and project submission.
+
+### 🌍 MyBharat Hackathon
+- Participated in the hackathon.
+- Worked on developing and submitting a solution.
+
+### 💻 Other Technical Activities
+- Participated in technical innovation and development activities.
+- Interested in cybersecurity, cloud computing, DevOps, and technology-focused competitions.
+- Continuously exploring opportunities to collaborate and build practical solutions.
 
 ---
 
 ## 🎓 Education
 
 ### Bachelor of Engineering
-
 **Computer Engineering (IoT & Cyber Security)**
 
 Shree Dhanvantary College of Engineering & Technology  
@@ -244,19 +243,18 @@ Gujarat Technological University (GTU), Gujarat, India.
 
 Gujarat Technological University (GTU)
 
-**CGPA:** 8.17 / 10
+**CGPA: 8.17 / 10**
 
 ---
 
 ## 💼 Experience
 
 ### Front-End Development Intern – Tatva Tech
-
 **June 2024 – August 2024**
 
 - Gained practical experience in front-end development.
 - Worked with HTML, CSS, and Bootstrap.
-- Developed and modified responsive user interface components.
+- Developed responsive user interface components.
 - Improved technical and problem-solving skills.
 - Completed assigned development tasks.
 
@@ -266,31 +264,22 @@ Gujarat Technological University (GTU)
 - Working on website development and branding.
 - Exploring business-focused technology solutions.
 - Developing ideas for digital products and services.
-- Contributing to technical development and business growth.
-
----
-
-## 🏆 Achievements & Activities
-
-- 🎯 Participated in GTU Internal Smart India Hackathon (SIH) 2025.
-- 📜 Completed Python-related certification training.
-- 💻 Developed academic and personal projects in cybersecurity, networking, Python, and web development.
-- 🚀 Participated in technical innovation challenges and hackathons.
-- 🤝 Interested in open-source contributions and collaborative development.
-- 🌱 Continuously expanding knowledge in Cloud Security and DevOps.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrey-Gadhiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Gadhiya&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shrey-Gadhiya&theme=tokyonight" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrey-Gadhiya&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shrey-Gadhiya&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img width="75%" src="https://streak-stats.demolab.com/?user=Shrey-Gadhiya&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrey-Gadhiya&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 ---
@@ -298,16 +287,16 @@ Gujarat Technological University (GTU)
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
 ## 🎯 Career Goals
 
-My current career goal is to become a skilled **Cloud Security Engineer** with strong DevOps and infrastructure engineering capabilities.
+My goal is to become a skilled **Cloud Security Engineer** with strong DevOps and infrastructure engineering capabilities.
 
-I aim to develop practical experience in:
+I'm working towards gaining practical experience in:
 
 - AWS Cloud Infrastructure
 - Cloud Identity and Access Management
@@ -316,7 +305,7 @@ I aim to develop practical experience in:
 - CI/CD Pipelines
 - Infrastructure Automation
 - Network and Cloud Security
-- Monitoring and Vulnerability Management
+- Security Monitoring
 
 I'm actively looking for opportunities where I can learn from experienced professionals, contribute to real-world projects, and develop industry-level engineering skills.
 
@@ -327,29 +316,23 @@ I'm actively looking for opportunities where I can learn from experienced profes
 I'm always interested in connecting with Cloud Engineers, DevOps Engineers, Cybersecurity Professionals, developers, and technology enthusiasts.
 
 <p align="center">
-
   <a href="https://github.com/Shrey-Gadhiya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://shreypatel95.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-
 </p>
 
 <p align="center">
   <b>☁️ Cloud Security | ⚙️ DevOps | 🔐 Infrastructure Security</b>
 </p>
 
-<h3 align="center">
-  "Build Secure. Automate Smart. Keep Learning."
-</h3>
+<h3 align="center">"Build Secure. Automate Smart. Keep Learning."</h3>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+  ⭐ Thanks for visiting my profile! Explore my repositories and connect with me.
 </p>
