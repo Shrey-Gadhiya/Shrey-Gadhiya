@@ -1,237 +1,355 @@
-# 👋 Hi, I'm Shrey Gadhiya
 
-### AI Developer | Python Developer | CSE Student | Tech Entrepreneur
+<!-- =============================================== -->
+<!-- SHREY GADHIYA - GITHUB PROFILE README           -->
+<!-- =============================================== -->
 
-I’m a Computer Science and Engineering student passionate about building practical software solutions using **Artificial Intelligence, Generative AI, Agentic AI, web development, and cybersecurity**.
+<h1 align="center">👋 Hi, I'm Shrey Gadhiya</h1>
 
-I enjoy turning ideas into working projects, experimenting with emerging technologies, solving technical problems, and continuously improving my development skills. I’m also building **Orbitra Solution**, where I explore digital solutions, AI automation, website development, and branding.
+<h3 align="center">
+  ☁️ Aspiring Cloud Security Engineer | DevOps Enthusiast
+</h3>
 
-- 🔭 **Currently exploring:** Agentic AI, RAG systems, LLM applications, and AI automation
-- 🤖 **AI interests:** LangChain, LangGraph, vector databases, AI agents, and LLM integration
-- 💻 **Development:** Python, web technologies, APIs, and database systems
-- 🔐 **Cybersecurity:** Network analysis, Linux, and security testing tools
-- 🚀 **Entrepreneurship:** Building digital products and solutions through Orbitra Solution
-- 🤝 **Open to:** Hackathons, collaborative projects, internships, and open-source contributions
-- 📍 **Location:** Surat, Gujarat, India
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+Security+Engineer;DevOps+%26+Infrastructure+Enthusiast;Cybersecurity+%26+Linux+Learner;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shrey-Gadhiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a Computer Science and Engineering student specializing in **IoT & Cyber Security**, passionate about Cloud Security, DevOps, infrastructure management, and building secure technology solutions.
+
+I'm currently developing my technical skills in **AWS, Cloud Security, Linux Administration, Docker, Networking, CI/CD, and Infrastructure Automation**.
+
+I enjoy learning new technologies, experimenting with practical tools, solving technical challenges, and building projects that improve my real-world technical knowledge.
+
+Alongside my technical journey, I'm also building **Orbitra Solution**, an entrepreneurial initiative focused on digital solutions, website development, branding, and business technology.
+
+### 🔭 Currently Exploring
+
+- ☁️ AWS Cloud Computing and Infrastructure
+- 🔐 Cloud Security and Identity Access Management
+- ⚙️ DevOps Practices and CI/CD Pipelines
+- 🐳 Docker and Containerization
+- 🐧 Linux Administration and Shell Scripting
+- 🌐 Computer Networking and Cloud Networking
+- 🛡️ Infrastructure Security and Monitoring
+
+### 💡 Areas of Interest
+
+- Cloud Security Engineering
+- DevOps Engineering
+- DevSecOps
+- AWS Cloud Infrastructure
+- Infrastructure as Code (IaC)
+- CI/CD Automation
+- Linux System Administration
+- Network Security
+- Vulnerability Assessment
+
+### 🤝 Open To
+
+- Cloud Security Internships
+- DevOps Internships
+- Cloud Engineering Internships
+- Cybersecurity Internships
+- Infrastructure Security Opportunities
+- Technical Collaborations
+- Open Source Contributions
+- Hackathons
+
+📍 **Location:** Surat, Gujarat, India
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing a **B.E. in Computer Science Engineering (IoT & Cyber Security)** at Gujarat Technological University (GTU).
-- 📚 Completed a Diploma in Computer Engineering with **8.17 CGPA**.
-- 💼 Completed a front-end development internship at **Tatva Tech** (June–August 2024).
-- 🧠 Interested in building AI-powered applications that solve real-world problems.
-- 🛠️ Experienced in developing academic projects, automation tools, and web applications.
-- 🏢 Building **Orbitra Solution** around AI automation, websites, branding, and digital solutions.
-- 🌱 Continuously learning and improving through hands-on projects and technical challenges.
+- 🎓 Pursuing B.E. in Computer Engineering (IoT & Cyber Security) at Shree Dhanvantary College of Engineering & Technology.
+- 📚 Completed Diploma in Computer Engineering with **8.17 CGPA** from Gujarat Technological University.
+- 💼 Completed Front-End Development Internship at Tatva Tech (June–August 2024).
+- ☁️ Currently focusing on Cloud Security and DevOps engineering.
+- 🔐 Interested in securing cloud infrastructure, applications, systems, and networks.
+- 🐍 Experienced in Python programming and technical project development.
+- 🌐 Familiar with web development, APIs, and database systems.
+- 🏢 Building Orbitra Solution, exploring digital products and business solutions.
+- 🌱 Continuously learning through hands-on projects and practical experiments.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### ☁️ Cloud Computing & Cloud Security
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+- AWS Fundamentals (Currently Learning)
+- Identity and Access Management (IAM)
+- Cloud Security Fundamentals
+- Cloud Infrastructure Concepts
+- Cloud Networking Fundamentals
+- Access Control and Security Best Practices
+
+### ⚙️ DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- Docker and Containerization Fundamentals
+- Git and GitHub Version Control
+- CI/CD Pipeline Fundamentals
+- Linux Command Line
+- Linux System Administration Fundamentals
+- Shell Scripting Fundamentals
+- Deployment and Automation Concepts
+
+### 🔐 Cybersecurity & Networking
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+
+- Computer Networking (TCP/IP, DNS, HTTP/HTTPS)
+- Network Traffic Analysis
+- Vulnerability Assessment
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- OpenVAS
+- Cisco Packet Tracer
+- Network Troubleshooting
+
+### 💻 Programming & Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI, Generative AI & Machine Learning
+- Python
+- Java
+- C and C++
+- SQL
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- PHP
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6C47FF?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Mistral AI](https://img.shields.io/badge/Mistral%20AI-000000?style=for-the-badge)
+### 🧰 Developer Tools & Platforms
 
-**Areas:** Retrieval-Augmented Generation (RAG), AI agents, embeddings, semantic search, document question answering, LLM integration, and AI-powered assistants.
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Web Development
+- Visual Studio Code
+- Git and GitHub
+- Postman
+- Docker Desktop
+- Supabase
+- Vercel
+- Netlify
+- Visual Studio
+- Linux Terminal
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### Cybersecurity & Networking
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-
-**Other tools:** OpenVAS, Cisco Packet Tracer, Linux command-line utilities, and network troubleshooting.
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-*My skills are continuously evolving as I learn and build new projects.*
+*My technical skills are continuously evolving through practical learning and hands-on development.*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 1. University Student Assistant Using Agentic AI
+### 🔍 1. Network Log Analyzer
 
-An AI-powered university assistant designed to answer student questions using retrieved information and agent-based workflows.
+A Python-based desktop application designed to analyze network logs and identify potentially suspicious IP addresses.
 
-- Uses LangGraph for agent orchestration.
-- Implements Retrieval-Augmented Generation (RAG).
-- Uses FAISS for vector search.
-- Integrates Llama 3.3 through Groq.
+**Key Features:**
+- Log file analysis
+- Suspicious IP identification
+- Color-coded analysis results
+- Graphical user interface using Tkinter
+- PDF report generation
 
-**Technologies:** Python, LangGraph, RAG, FAISS, Llama 3.3, Groq.
+**Technologies:** Python, Tkinter, Network Log Analysis.
 
-### 📚 2. Document-Based Question Answering System
+### 🌐 2. Network Traffic Monitoring
 
-A document intelligence application that helps users ask questions about uploaded documents and receive context-aware answers.
+A networking project focused on monitoring and understanding network traffic, analyzing communication patterns, and exploring network behavior.
 
-- Uses document retrieval to find relevant information.
-- Creates embeddings for semantic search.
-- Uses ChromaDB for vector storage.
-- Integrates Mistral AI through LangChain.
+**Key Areas:**
+- Network traffic monitoring
+- Packet analysis
+- Network troubleshooting
+- Traffic inspection
 
-**Technologies:** Python, LangChain, ChromaDB, Hugging Face Embeddings, Mistral AI.
+**Technologies:** Python, Wireshark, Computer Networking.
 
-### 🎬 3. AI-Powered Movie Information Extraction System
+### 🔐 3. Password Strength Checker
 
-An AI application designed to extract and organize movie-related information using language models and structured processing.
+A security-focused utility that evaluates password strength and demonstrates fundamental password security principles.
 
-**Technologies:** Python, Mistral AI, LangChain.
-
-### 🌦️ 4. AI-Powered Weather & News Assistant
-
-An AI assistant project combining weather and news information with an agent-based workflow.
-
-**Technologies:** Python, Agentic AI, LLM integration, API integration.
-
-### 🔍 5. Network Log Analyzer
-
-A Python-based desktop application for analyzing network logs and identifying potentially suspicious IP addresses.
-
-- Built with a Tkinter graphical interface.
-- Analyzes log data and highlights suspicious activity.
-- Includes color-coded results.
-- Supports generating PDF reports.
-
-**Technologies:** Python, Tkinter, Log Analysis, Networking.
-
-### 🔐 6. Password Strength Checker
-
-A security-focused utility that evaluates password strength and helps users understand basic password security principles.
+**Key Features:**
+- Password strength evaluation
+- Password validation
+- Security recommendations
+- Basic password security checks
 
 **Technologies:** Python, Password Validation, Security Fundamentals.
 
-### 🌐 7. CAR SPY — Automotive Information Website
+### 🛡️ 4. GhostTrace AI
 
-A web development project focused on presenting Dodge vehicle information through a structured website.
+A cybersecurity-focused project exploring security analysis and AI-assisted threat investigation.
 
-**Technologies:** HTML, CSS, Bootstrap.
+**Focus:** Cybersecurity, Threat Analysis, Security Automation.
 
-### 💼 8. Orbitra Solution
+### 🌐 5. CAR SPY – Automotive Information Website
+
+A web development project designed to present Dodge vehicle information through a structured and responsive website.
+
+**Technologies:** HTML5, CSS3, Bootstrap.
+
+### 🏢 6. Orbitra Solution
 
 My entrepreneurial initiative focused on building digital solutions for businesses.
 
-- AI automation solutions.
-- Website development.
-- Branding and digital presence.
-- Business workflow improvement.
+**Focus Areas:**
+- Website Development
+- Business Digital Solutions
+- Branding and Digital Presence
+- Business Workflow Improvement
 
-**Focus:** AI Automation, Web Development, Branding, Digital Solutions.
-
-> Explore my GitHub repositories for source code, implementation details, and project updates.
+**Focus:** Digital Solutions, Web Development, Branding.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering — Computer Science Engineering (IoT & Cyber Security)**  
+### Bachelor of Engineering
+
+**Computer Engineering (IoT & Cyber Security)**
+
+Shree Dhanvantary College of Engineering & Technology  
 Gujarat Technological University (GTU), Gujarat, India.
 
-**Diploma in Computer Engineering**  
-Gujarat Technological University (GTU)  
-CGPA: **8.17**
+### Diploma in Computer Engineering
+
+Gujarat Technological University (GTU)
+
+**CGPA:** 8.17 / 10
 
 ---
 
 ## 💼 Experience
 
-**Front-End Development Intern — Tatva Tech**  
-June 2024 – August 2024
+### Front-End Development Intern – Tatva Tech
 
-- Gained practical exposure to front-end development.
-- Worked with web technologies and responsive interface concepts.
-- Strengthened foundational development and problem-solving skills.
+**June 2024 – August 2024**
 
-**Founder / CEO — Orbitra Solution**
+- Gained practical experience in front-end development.
+- Worked with HTML, CSS, and Bootstrap.
+- Developed and modified responsive user interface components.
+- Improved technical and problem-solving skills.
+- Completed assigned development tasks.
 
-- Exploring AI automation and digital solutions.
-- Working on website development, branding, and business-focused technology.
-- Developing ideas for practical digital products and services.
+### Founder / CEO – Orbitra Solution
+
+- Exploring digital solutions for businesses.
+- Working on website development and branding.
+- Exploring business-focused technology solutions.
+- Developing ideas for digital products and services.
+- Contributing to technical development and business growth.
 
 ---
 
 ## 🏆 Achievements & Activities
 
-- 🎯 Participated in the GTU internal Smart India Hackathon (SIH) 2025.
+- 🎯 Participated in GTU Internal Smart India Hackathon (SIH) 2025.
 - 📜 Completed Python-related certification training.
-- 💻 Built academic and personal projects in AI, Python, web development, and networking.
-- 🚀 Interested in hackathons, innovation challenges, and collaborative software development.
+- 💻 Developed academic and personal projects in cybersecurity, networking, Python, and web development.
+- 🚀 Participated in technical innovation challenges and hackathons.
+- 🤝 Interested in open-source contributions and collaborative development.
+- 🌱 Continuously expanding knowledge in Cloud Security and DevOps.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrey-Gadhiya&show_icons=true&theme=tokyonight&hide_border=true" alt="Shrey's GitHub statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrey-Gadhiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Gadhiya&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-Gadhiya&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+  <img src="https://streak-stats.demolab.com?user=Shrey-Gadhiya&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
+---
+
+## 🐍 Contribution Activity
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shrey-Gadhiya&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
+
+---
+
+## 🎯 Career Goals
+
+My current career goal is to become a skilled **Cloud Security Engineer** with strong DevOps and infrastructure engineering capabilities.
+
+I aim to develop practical experience in:
+
+- AWS Cloud Infrastructure
+- Cloud Identity and Access Management
+- Linux Administration
+- Docker and Containerization
+- CI/CD Pipelines
+- Infrastructure Automation
+- Network and Cloud Security
+- Monitoring and Vulnerability Management
+
+I'm actively looking for opportunities where I can learn from experienced professionals, contribute to real-world projects, and develop industry-level engineering skills.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, AI enthusiasts, cybersecurity learners, entrepreneurs, and people building meaningful technology.
+I'm always interested in connecting with Cloud Engineers, DevOps Engineers, Cybersecurity Professionals, developers, and technology enthusiasts.
 
-<p align="left">
+<p align="center">
+
   <a href="https://github.com/Shrey-Gadhiya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shrey-gadhiya-992005270/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://shrey-gadhia-portfolio.wasmer.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6C47FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:shreypatel8032@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
----
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<p align="center">
-  <i>"Build with curiosity. Learn by doing. Improve with every iteration."</i>
+  <a href="https://shreypatel95.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+
 </p>
 
 <p align="center">
-  ⭐ If you find my projects interesting, explore my repositories and follow my journey!
+  <b>☁️ Cloud Security | ⚙️ DevOps | 🔐 Infrastructure Security</b>
+</p>
+
+<h3 align="center">
+  "Build Secure. Automate Smart. Keep Learning."
+</h3>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
